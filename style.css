@@ -1,0 +1,58 @@
+
+.main-wrap {
+    width: 80%;
+    margin: 0 auto;
+}
+.flex-wrap {
+    display: flex;
+/*    justify-content: space */
+    margin: 0;
+}
+
+.createCardFront,
+.createCardInside {
+    width: 45%;
+    padding: 4em;
+    background-color: burlywood;
+    text-align: center;
+    border-radius: .4em;
+    height: 100px;
+    margin: 0 auto 5px auto;
+}
+.createCardFrot,
+.createCardInide {
+    border: 2px solid maroon;
+    width: 45%;
+    padding: 4em;
+    background-color: burlywood;
+    text-align: center;
+    border-radius: .4em;
+    height: 100px;
+    margin: 0 auto 5px auto;
+}
+.merryChristmas {
+    border: 3px solid red;
+    background-color: green;
+    color: white;
+}
+.valentine {
+    border: 3px solid red;
+    background-color: lightpink;
+    color: purple;
+}
+.adultBirthday {
+    border: 3px solid brown;
+    background-color: beige;
+    color: royalblue;
+}
+.childBirthday {
+    border: 3px solid orange ;
+    background-color: white;
+    color: blue;
+}
+.fourthJuly {
+    border: 3px solid red ;
+    background-color: blue;
+    color: white;
+}
+
